@@ -3,7 +3,7 @@ An Open Source clone of Twitter using Ruby on Rails [http://twitter-clone-rails.
 
 ### Getting Started
 ```
-git clone https://github.com/sudharti/twitter-clone/
+git clone https://github.com/shanmuk/twitter-clone/
 cd twitter-clone
 bundle
 rake db:migrate
@@ -20,7 +20,7 @@ Using git flow http://danielkummer.github.io/git-flow-cheatsheet/
 - develop is merged into master once functionality is completed
 
 ### TODO
-Issues are used to track TODO features https://github.com/sudharti/twitter-clone/issues. Once a feature is complete the issue is closed.
+Issues are used to track TODO features https://github.com/shanmuk/twitter-clone/issues. Once a feature is complete the issue is closed.
 
 ### License
 GNU GPL v2
