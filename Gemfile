@@ -62,7 +62,7 @@ gem 'rails_autolink'
 # Use unicorn as the app server
 # gem 'unicorn'
 
-# Use Capistrano for deployment
+# Use Capistrano for deployment services
 # gem 'capistrano-rails', group: :development
 
 # Use debugger
