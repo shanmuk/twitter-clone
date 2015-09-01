@@ -15,4 +15,4 @@ Issues are used to track TODO features https://github.com/shanmuk/twitter-clone/
 ### License
 GNU GPL v2
 
-Feel free to do any changes if required.
+Feel free to do any changes if required. Thanks!
