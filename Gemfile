@@ -59,7 +59,7 @@ gem 'rails_autolink'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-# Use unicorn as the app server
+# Use unicorn as the application server
 # gem 'unicorn'
 
 # Use Capistrano for deployment jobs
