@@ -1,5 +1,5 @@
 ## Twitter-Clone
-An Open Source clone of Twitter using Ruby on Rails [http://twitter-clone-rails.herokuapp.com/](http://twitter-clone-rails.herokuapp.com/)
+An Open Source clone of Twitter using Ruby on Rails.
 
 ### Getting Started
 ```
